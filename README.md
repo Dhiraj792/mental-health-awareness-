@@ -16,7 +16,6 @@ To analyze survey data and uncover the relationship between **digital consumptio
 - **PowerPoint** – Storytelling-based report
 
 ---
-
 ## 🧹 Data Preparation
 
 - Removed missing or inconsistent values
