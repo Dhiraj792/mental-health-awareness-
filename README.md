@@ -4,7 +4,6 @@
 ## 🎯 Objective
 
 To analyze survey data and uncover the relationship between **digital consumption behaviors** and **mental health outcomes**, using interactive data visualization techniques in Power BI.
-
 ---
 
 ## 🔧 Tools Used
